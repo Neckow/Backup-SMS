@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SupSMS</string>
+    <string name="welcome">SupSMS</string>
+    <string name="userText">Username :</string>
+    <string name="passwordText">Password :</string>
+    <string name="button_message">Login</string>
+    <string name="about">About</string>
+    <string name="version">Version : 1.0</string>
+    <string name="devTeam">Development Team :</string>
+    <string name="team">Maxime Bouquerod 153584\nLoïc Billaud 162618</string>
+    <string name="whatSupSMS">What is SupSMS ?</string>
+    <string name="supSMS">SupSMS is a app to backup\nyour SMS and contact.</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="hello_world">Hello world !</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="home">Home</string>
+    <string name="smsBackup">SMS Backup</string>
+    <string name="contactBackup">Contact Backup</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_sms">SMSActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

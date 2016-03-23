@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/about"
+        android:id="@+id/textViewAbout"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="60sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/version"
+        android:id="@+id/textViewVersion"
+        android:layout_marginTop="80sp"
+        android:layout_marginLeft="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/devTeam"
+        android:id="@+id/textViewDevTeam"
+        android:layout_marginTop="50sp"
+        android:layout_marginLeft="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/team"
+        android:id="@+id/textViewTeam"
+        android:layout_marginLeft="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/whatSupSMS"
+        android:id="@+id/textViewWhatSupSMS"
+        android:layout_marginTop="50sp"
+        android:layout_marginLeft="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/supSMS"
+        android:id="@+id/textViewSupSMS"
+        android:layout_marginLeft="20sp" />
+
+</LinearLayout>
